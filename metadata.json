@@ -1,0 +1,6 @@
+{
+  "name": "IGNOU Question Bank & Exam Preparation Hub",
+  "description": "Comprehensive categorized question bank for IGNOU students organized by programme, course, exam frequency, and credit weightage with high-yield TEE predictions, mock paper simulator, and model answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
